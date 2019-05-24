@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Unity\\dyx\\VR\\VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR [Testing]"
+        }
+      }
+    }
+  ]
+}
